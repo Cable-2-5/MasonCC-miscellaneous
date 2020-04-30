@@ -20,4 +20,4 @@
 
 If you are trying to solve my recon challenge, you might want to look here: https://github.com/Cable-2-5/Cable-2-5.github.io/tree/master/heatmap1
 
-Exposed Key: AIzaSyBykc_bErt-mcLNSZ4ejKViOu4Prlllvbw
+Exposed Key: AIzaSyBykc_bErt-mcLNSZ4ejKViOu4Prlxlvbw
