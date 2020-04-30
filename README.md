@@ -19,4 +19,5 @@
 * Given: (2531257, 43);  My super secret message: 906851 991083 1780304 2380434 438490 356019 921472 822283 817856 556932 2102538 2501908 2211404 991083 1562919 38268;  Hint: first 5 letters are "gigem"
 
 If you are trying to solve my recon challenge, you might want to look here: https://github.com/Cable-2-5/Cable-2-5.github.io/tree/master/heatmap1
-AIzaSyBykc_bErt-mcLNSZ4ejKViOu4Prlllvbw
+
+Exposed Key: AIzaSyBykc_bErt-mcLNSZ4ejKViOu4Prlllvbw
